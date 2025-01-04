@@ -435,6 +435,9 @@ li p {
   body {
     padding: 20px;
   }
+  header {
+    overflow-y: visible;
+  }
  
   li {
     display: flex;
@@ -457,6 +460,6 @@ li p {
     position: relative;
     overflow: visible;
     z-index: 432432432;
-    align-self: center;
+    justify-self: center;
   }
 }
