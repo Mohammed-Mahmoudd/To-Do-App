@@ -1,4 +1,7 @@
-Just to do app 
+Just to do app :)
+
+
+
 Features: 1) Dark and light mode  2) professional animations and effects 3) Responsive Design
 
 
