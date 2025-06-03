@@ -16,9 +16,9 @@ A simple and elegant To-Do List application built with responsive design, smooth
 
 ## 🚀 Technologies Used
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (Vanilla)**  
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
 - **LocalStorage API**
 
 ---
@@ -35,11 +35,8 @@ A simple and elegant To-Do List application built with responsive design, smooth
 
 ## 📸 Screenshots
 
-
+| ![DarkMode]](./DarkMode) | ![LightMode](./LightMode.png) |
 
 ---
 
-
 Developed by Mohammed
-
-
