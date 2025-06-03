@@ -40,7 +40,6 @@ A simple and elegant To-Do List application built with responsive design, smooth
   <img src="./LightMode.png"  />
 </p>
 ---
----
 
 - **Developed by Mohammed**
 
