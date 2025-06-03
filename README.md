@@ -41,5 +41,7 @@ A simple and elegant To-Do List application built with responsive design, smooth
 </p>
 ---
 ---
+
 - **Developed by Mohammed**
+
 ---
