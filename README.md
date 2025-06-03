@@ -35,7 +35,7 @@ A simple and elegant To-Do List application built with responsive design, smooth
 
 ## 📸 Screenshots
 
-| ![DarkMode]](./DarkMode.png) | ![LightMode](./LightMode.png) |
+| ![DarkMode](./DarkMode.png) | ![LightMode](./LightMode.png) |
 
 ---
 
